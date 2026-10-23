@@ -34,15 +34,13 @@ Lokal, schnell, quelloffen. Und mit Liebe zum Detail im Design.
 | [Debloatranium](https://github.com/Emre1001/Debloatranium) | Portabler Windows-Debloater von Light bis Max |
 | [LaunchDeck](https://github.com/Emre1001/LaunchDeck) | All-in-One-Game-Launcher für Windows |
 | [Financely](https://github.com/Emre1001/Financely) | Finanz-Tracker als PWA, ohne Build-Schritt |
-| [J.A.R.V.I.S.](https://github.com/Emre1001/Jarvis) | KI-Agent, der den PC per Text oder Stimme steuert, lokal mit Ollama |
-| [MacroPad](https://github.com/Emre1001/macropad) | Web-App für ein ESP32-S3-MacroPad, Fernsteuerung über MQTT |
 
 </details>
 
 ## 🧰 Werkzeugkasten
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,flutter,dart,kotlin,androidstudio,ts,react,tauri,python,firebase,linux,html,css&perline=7" alt="Rust, Flutter, Dart, Kotlin, Android, TypeScript, React, Tauri, Python, Firebase, Linux, HTML, CSS">
+  <img src="https://skillicons.dev/icons?i=rust,flutter,dart,kotlin,androidstudio,ts,react,tauri,firebase,linux,html,css&perline=7" alt="Rust, Flutter, Dart, Kotlin, Android, TypeScript, React, Tauri, Firebase, Linux, HTML, CSS">
 </p>
 
 ## 🧭 Wie ich baue
