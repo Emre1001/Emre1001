@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" width="1200" height="90" role="img" aria-label="Kein Konto. Kein Abo. Kein Tracking. Nur Software.">
+<style>
+  .f { font: 600 15px ui-monospace,'JetBrains Mono','Cascadia Code',Consolas,monospace; letter-spacing: 3px; fill: #8b949e; }
+  .l { stroke-dasharray: 6 10; animation: m 1.2s linear infinite; }
+  @keyframes m { to { stroke-dashoffset: -16; } }
+  .x { animation: c 8s linear infinite; }
+  @keyframes c { 0%,100% { fill: #3E8BFF; } 33% { fill: #A855F7; } 66% { fill: #22C55E; } }
+</style>
+<line x1="0" y1="20" x2="1200" y2="20" stroke="#3E8BFF" stroke-opacity=".5" class="l"/>
+<text x="600" y="62" text-anchor="middle" class="f">KEIN KONTO · KEIN ABO · KEIN TRACKING · <tspan class="x">NUR SOFTWARE</tspan></text>
+</svg>
