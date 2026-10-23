@@ -11,7 +11,7 @@ LINES = [  # (art, text, start in s)
     ("cmd", "whoami", 0.6),
     ("out", "Emre. Ich baue Software, die dir gehört.", 1.4),
     ("cmd", "ls ~/projekte", 2.0),
-    ("out", "cinemamax/  kelimo/  speedload/  giga-share/  jarvis/  macropad/", 2.9),
+    ("out", "cinemamax/  kelimo/  speedload/  giga-share/  werwolf/  gym-ranker/", 2.9),
     ("cmd", "cat prinzipien.txt", 3.5),
     ("ok", "✓ kein Konto   ✓ kein Tracking   ✓ läuft lokal   ✓ open source", 4.5),
 ]
@@ -42,7 +42,7 @@ def hero():
     # Seitenpanel: Geräte "verbinden" sich nacheinander
     devices = [("📺", "Android TV", "CinemaMax"), ("📱", "Handy", "Kelimo"),
                ("💻", "Linux / Windows", "Speedload"), ("🌐", "LAN + P2P", "Giga-Share"),
-               ("🎙", "Stimme", "J.A.R.V.I.S."), ("🔌", "ESP32-S3", "MacroPad")]
+               ("🐺", "Spieleabend", "Werwolf Mobile"), ("🏋", "Training", "Gym Ranker")]
     panel, py = [], 128
     for i, (ico, dev, proj) in enumerate(devices):
         t = 0.8 + i * 0.7
@@ -101,10 +101,10 @@ CARDS = [
      ["Bis zu 32 Verbindungen pro Datei.", "Setzt nach Abbruch fort. Eine Datei, 2 MB."], ["Rust"]),
     ("giga-share", "Giga-Share", "DATEITRANSFER · LAN + P2P", "#A855F7",
      ["Dateien zwischen allen Geräten senden.", "Keine Cloud, kein Konto, kein Größenlimit."], ["Rust", "Tauri", "React"]),
-    ("jarvis", "J.A.R.V.I.S.", "KI-AGENT · LINUX · WINDOWS", "#06B6D4",
-     ["Steuert den PC per Text oder Stimme.", "42 Werkzeuge, läuft lokal auf 4 GB VRAM."], ["Python", "Ollama", "Whisper"]),
-    ("macropad", "MacroPad", "HARDWARE · ESP32-S3", "#EC4899",
-     ["6 Tasten + Joystick als USB-Eingabegerät.", "Mit Web-App und Telegram-Fernsteuerung."], ["C++", "ESP32", "MQTT"]),
+    ("werwolf-mobile", "Werwolf Mobile", "PARTYSPIEL · PWA · ONLINE + LOKAL", "#EF4444",
+     ["Das Werwolf-Kartenspiel fürs Handy, mit", "automatischem Erzähler und 10 Rollen."], ["JavaScript", "PWA", "Firebase"]),
+    ("gym-ranker", "Gym Ranker", "FITNESS · ANDROID · PWA", "#EAB308",
+     ["Training als Rangliste: XP sammeln und", "33 Ränge aufsteigen. Wer skippt, verliert."], ["HTML", "JavaScript", "PWA"]),
 ]
 
 

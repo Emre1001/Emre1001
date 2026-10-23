@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 220" width="480" height="220" role="img" aria-label="Gym Ranker: Training als Rangliste: XP sammeln und 33 Ränge aufsteigen. Wer skippt, verliert.">
+<style>
+  .t { font: 700 30px -apple-system,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif; fill: #f0f3f6; letter-spacing: -.5px; }
+  .g { font: 600 11px ui-monospace,'JetBrains Mono','Cascadia Code',Consolas,monospace; fill: #EAB308; letter-spacing: 1.2px; }
+  .d { font: 14.5px -apple-system,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif; fill: #9aa4b2; }
+  .m { font: 600 12px ui-monospace,'JetBrains Mono','Cascadia Code',Consolas,monospace; }
+  .n { font: 700 64px ui-monospace,'JetBrains Mono','Cascadia Code',Consolas,monospace; fill: #EAB308; fill-opacity: .07; }
+  .p { animation: p 4s ease-in-out infinite alternate; transform-origin: 440px 20px; }
+  @keyframes p { from { opacity: .25; transform: scale(.9); } to { opacity: .55; transform: scale(1.15); } }
+  .bar { animation: w 3s ease-in-out infinite alternate; }
+  @keyframes w { from { stroke-dashoffset: 120; } to { stroke-dashoffset: 0; } }
+</style>
+<defs>
+  <radialGradient id="r"><stop offset="0" stop-color="#EAB308" stop-opacity=".55"/><stop offset="1" stop-color="#EAB308" stop-opacity="0"/></radialGradient>
+  <clipPath id="k"><rect x="1" y="1" width="478" height="218" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#k)">
+  <rect width="480" height="220" fill="#0B0E14"/>
+  <circle cx="440" cy="20" r="150" fill="url(#r)" class="p"/>
+  <text x="462" y="206" text-anchor="end" class="n">06</text>
+  <line x1="32" y1="32" x2="152" y2="32" stroke="#EAB308" stroke-width="3" stroke-linecap="round" stroke-dasharray="120" class="bar"/>
+  <text x="32" y="60" class="g">FITNESS · ANDROID · PWA</text>
+  <text x="32" y="96" class="t">Gym Ranker</text>
+  <text x="32" y="120" class="d">Training als Rangliste: XP sammeln und</text><text x="32" y="142" class="d">33 Ränge aufsteigen. Wer skippt, verliert.</text>
+  <rect x="32" y="170" width="52" height="24" rx="12" fill="#EAB308" fill-opacity=".12" stroke="#EAB308" stroke-opacity=".45"/><text x="58" y="186" text-anchor="middle" class="m" fill="#EAB308">HTML</text><rect x="91.6" y="170" width="96" height="24" rx="12" fill="#EAB308" fill-opacity=".12" stroke="#EAB308" stroke-opacity=".45"/><text x="140" y="186" text-anchor="middle" class="m" fill="#EAB308">JavaScript</text><rect x="195.6" y="170" width="44" height="24" rx="12" fill="#EAB308" fill-opacity=".12" stroke="#EAB308" stroke-opacity=".45"/><text x="218" y="186" text-anchor="middle" class="m" fill="#EAB308">PWA</text>
+</g>
+<rect x="1" y="1" width="478" height="218" rx="14" fill="none" stroke="#EAB308" stroke-opacity=".35"/>
+</svg>
