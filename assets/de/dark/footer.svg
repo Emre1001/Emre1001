@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 80" width="1200" height="80" role="img" aria-label="KEIN KONTO · KEIN ABO · KEIN TRACKING · NUR SOFTWARE">
+<style>
+  .f { font: 600 14px ui-monospace,'JetBrains Mono','Cascadia Code',Consolas,monospace; letter-spacing: 3px; fill: #9a9fa8; }
+  .x { fill: #8fb0dc; }
+</style>
+<line x1="0" y1="16.5" x2="1200" y2="16.5" stroke="#ffffff" stroke-opacity=".08"/>
+<text x="600" y="56" text-anchor="middle" class="f">KEIN KONTO · KEIN ABO · KEIN TRACKING · <tspan class="x">NUR SOFTWARE</tspan></text>
+</svg>

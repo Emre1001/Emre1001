@@ -1,29 +1,30 @@
-<a href="https://github.com/Emre1001"><img src="assets/hero.svg" width="100%" alt="Emre: Ich baue Software, die dir gehört."></a>
+<!-- Erzeugt von tools/build.py – bitte dort ändern. -->
+<p align="right"><sub><b>Deutsch</b> · <a href="README.en.md">English</a> · <a href="README.tr.md">Türkçe</a></sub></p>
+
+<a href="https://github.com/Emre1001"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/de/dark/hero.svg"><source media="(prefers-color-scheme: light)" srcset="assets/de/light/hero.svg"><img src="assets/de/dark/hero.svg" width="100%" alt="Emre: Ich baue Software, die dir gehört."></picture></a>
 
 <div align="center">
 
-### Software, die auf **deinem** Gerät läuft – nicht auf fremden Servern.
+### Software, die auf <b>deinem</b> Gerät läuft – nicht auf fremden Servern.
 
 Vom Fernseher übers Handy bis zum PC: Ich baue Apps ohne Konto, ohne Abo und ohne Tracking.<br>
 Lokal, schnell, quelloffen. Und mit Liebe zum Detail im Design.
 
 </div>
 
-<br>
-
-## ⚡ Was ich baue
+## Was ich baue
 
 <p align="center">
-  <a href="https://github.com/Emre1001/CinemaMax"><img src="assets/cards/cinemamax.svg" width="49%" alt="CinemaMax"></a>
-  <a href="https://github.com/Emre1001/kelimo"><img src="assets/cards/kelimo.svg" width="49%" alt="Kelimo"></a>
-  <a href="https://github.com/Emre1001/speedload"><img src="assets/cards/speedload.svg" width="49%" alt="Speedload"></a>
-  <a href="https://github.com/Emre1001/Giga-Share"><img src="assets/cards/giga-share.svg" width="49%" alt="Giga-Share"></a>
-  <a href="https://github.com/Emre1001/Werwolf-Mobile"><img src="assets/cards/werwolf-mobile.svg" width="49%" alt="Werwolf Mobile"></a>
-  <a href="https://github.com/Emre1001/Gym-Ranker"><img src="assets/cards/gym-ranker.svg" width="49%" alt="Gym Ranker"></a>
+  <a href="https://github.com/Emre1001/CinemaMax"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/de/dark/cards/cinemamax.svg"><source media="(prefers-color-scheme: light)" srcset="assets/de/light/cards/cinemamax.svg"><img src="assets/de/dark/cards/cinemamax.svg" width="49%" alt="CinemaMax"></picture></a>
+  <a href="https://github.com/Emre1001/kelimo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/de/dark/cards/kelimo.svg"><source media="(prefers-color-scheme: light)" srcset="assets/de/light/cards/kelimo.svg"><img src="assets/de/dark/cards/kelimo.svg" width="49%" alt="Kelimo"></picture></a>
+  <a href="https://github.com/Emre1001/speedload"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/de/dark/cards/speedload.svg"><source media="(prefers-color-scheme: light)" srcset="assets/de/light/cards/speedload.svg"><img src="assets/de/dark/cards/speedload.svg" width="49%" alt="Speedload"></picture></a>
+  <a href="https://github.com/Emre1001/Giga-Share"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/de/dark/cards/giga-share.svg"><source media="(prefers-color-scheme: light)" srcset="assets/de/light/cards/giga-share.svg"><img src="assets/de/dark/cards/giga-share.svg" width="49%" alt="Giga-Share"></picture></a>
+  <a href="https://github.com/Emre1001/Werwolf-Mobile"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/de/dark/cards/werwolf-mobile.svg"><source media="(prefers-color-scheme: light)" srcset="assets/de/light/cards/werwolf-mobile.svg"><img src="assets/de/dark/cards/werwolf-mobile.svg" width="49%" alt="Werwolf Mobile"></picture></a>
+  <a href="https://github.com/Emre1001/Gym-Ranker"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/de/dark/cards/gym-ranker.svg"><source media="(prefers-color-scheme: light)" srcset="assets/de/light/cards/gym-ranker.svg"><img src="assets/de/dark/cards/gym-ranker.svg" width="49%" alt="Gym Ranker"></picture></a>
 </p>
 
 <details>
-<summary><b>🧪 Noch mehr aus der Werkstatt</b></summary>
+<summary><b>Noch mehr aus der Werkstatt</b></summary>
 <br>
 
 | Projekt | Was es macht |
@@ -37,13 +38,13 @@ Lokal, schnell, quelloffen. Und mit Liebe zum Detail im Design.
 
 </details>
 
-## 🧰 Werkzeugkasten
+## Werkzeugkasten
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,flutter,dart,kotlin,androidstudio,ts,react,tauri,firebase,linux,html,css&perline=7" alt="Rust, Flutter, Dart, Kotlin, Android, TypeScript, React, Tauri, Firebase, Linux, HTML, CSS">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rust,flutter,dart,kotlin,androidstudio,ts,react,tauri,firebase,linux,html,css&perline=12&theme=light"><img src="https://skillicons.dev/icons?i=rust,flutter,dart,kotlin,androidstudio,ts,react,tauri,firebase,linux,html,css&perline=12&theme=dark" alt="Rust, Flutter, Dart, Kotlin, Android, TypeScript, React, Tauri, Firebase, Linux, HTML, CSS"></picture>
 </p>
 
-## 🧭 Wie ich baue
+## Wie ich baue
 
 ```diff
 + Lokal zuerst       Daten bleiben auf dem Gerät. Die KI auch.
@@ -53,4 +54,4 @@ Lokal, schnell, quelloffen. Und mit Liebe zum Detail im Design.
 - Konten, Abos, Werbung, Tracking
 ```
 
-<a href="https://github.com/Emre1001?tab=repositories"><img src="assets/footer.svg" width="100%" alt="Kein Konto. Kein Abo. Kein Tracking. Nur Software."></a>
+<a href="https://github.com/Emre1001?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/de/dark/footer.svg"><source media="(prefers-color-scheme: light)" srcset="assets/de/light/footer.svg"><img src="assets/de/dark/footer.svg" width="100%" alt="KEIN KONTO · KEIN ABO · KEIN TRACKING · NUR SOFTWARE"></picture></a>
