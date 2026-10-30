@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 220" width="480" height="220" role="img" aria-label="Screen-Clean: Share and control a screen, directly P2P. With live cursors for every viewer. No server.">
+<style>
+  .t { font: 700 30px -apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif; fill: #1a1b1e; letter-spacing: -.6px; }
+  .g { font: 600 11px ui-monospace,'JetBrains Mono','Cascadia Code',Consolas,monospace; fill: #3d5a80; letter-spacing: 1.2px; }
+  .d { font: 14.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif; fill: #5b5f67; }
+  .c { font: 600 12px ui-monospace,'JetBrains Mono','Cascadia Code',Consolas,monospace; fill: #5b5f67; }
+  .n { font: 600 12px ui-monospace,'JetBrains Mono','Cascadia Code',Consolas,monospace; fill: #a3a6ac; font-variant-numeric: tabular-nums; }
+  .in { animation: in .45s cubic-bezier(.22,1,.36,1) both; }
+  @keyframes in { from { opacity: 0; transform: translateY(6px); } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x=".5" y=".5" width="479" height="219" rx="14" fill="#ffffff" stroke="#000000" stroke-opacity=".09"/>
+<text x="448" y="48" text-anchor="end" class="n">02</text>
+<g class="in" style="animation-delay:.05s"><text x="32" y="48" class="g">SCREEN SHARING · P2P · REMOTE CONTROL</text>
+<text x="32" y="88" class="t">Screen-Clean</text></g>
+<g class="in" style="animation-delay:.12s"><text x="32" y="122" class="d">Share and control a screen, directly P2P.</text><text x="32" y="144" class="d">With live cursors for every viewer. No server.</text></g>
+<g class="in" style="animation-delay:.19s"><rect x="32" y="168" width="49" height="24" rx="6" fill="#efefec"/><text x="57" y="184" text-anchor="middle" class="c">Rust</text><rect x="87.2" y="168" width="42" height="24" rx="6" fill="#efefec"/><text x="108" y="184" text-anchor="middle" class="c">P2P</text></g>
+</svg>
