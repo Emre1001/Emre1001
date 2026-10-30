@@ -34,9 +34,9 @@
     <text x="986" y="147" class="s mu" font-size="12">Android TV</text>
     <circle cx="1166" cy="128" r="3.5" class="dot" style="animation-delay:0.80s"/></g>
   <g class="dev" style="animation-delay:1.35s">
-    <g transform="translate(958 161)" class="ico"><rect x="4" y="1" width="8" height="14" rx="2"/><path d="M7 12.3h2"/></g>
-    <text x="986" y="173" class="s tx" font-size="14" font-weight="600">Kelimo</text>
-    <text x="986" y="189" class="s mu" font-size="12">Phone</text>
+    <g transform="translate(958 161)" class="ico"><rect x="1" y="2" width="14" height="10" rx="1.5"/><path d="M6 8.5 9.5 6l-.7 3.4"/><path d="M5 14.5h6"/></g>
+    <text x="986" y="173" class="s tx" font-size="14" font-weight="600">Screen-Clean</text>
+    <text x="986" y="189" class="s mu" font-size="12">Desktop</text>
     <circle cx="1166" cy="170" r="3.5" class="dot" style="animation-delay:1.35s"/></g>
   <g class="dev" style="animation-delay:1.90s">
     <g transform="translate(958 203)" class="ico"><rect x="2.5" y="2.5" width="11" height="8" rx="1"/><path d="M1 13.5h14"/></g>
@@ -66,7 +66,7 @@
   <g class="in" style="animation-delay:1.50s"><text x="40" y="194" class="m"><tspan class="ok">emre@1001</tspan><tspan class="f">:</tspan><tspan class="a">~</tspan><tspan class="f">$</tspan></text>
     <text x="160" y="194" class="m tx">ls ~/projects</text>
     <rect x="158" y="177" width="127" height="24" class="cover type" style="animation-delay:1.8s;animation-duration:0.71s"/></g>
-  <text x="40" y="228" class="m tx in" style="animation-delay:2.6s">cinemamax/  kelimo/  speedload/  giga-share/  werwolf/  gym-ranker/</text>
+  <text x="40" y="228" class="m tx in" style="animation-delay:2.6s">cinemamax/  screen-clean/  speedload/  giga-share/  werwolf/  gym-ranker/</text>
   <g class="in" style="animation-delay:2.90s"><text x="40" y="276" class="m"><tspan class="ok">emre@1001</tspan><tspan class="f">:</tspan><tspan class="a">~</tspan><tspan class="f">$</tspan></text>
     <text x="160" y="276" class="m tx">cat principles.txt</text>
     <rect x="158" y="259" width="172" height="24" class="cover type" style="animation-delay:3.2s;animation-duration:0.99s"/></g>

@@ -30,13 +30,13 @@ I18N = {
         path="~/projekte", ls="ls ~/projekte", cat="cat prinzipien.txt", devices="GERÄTE",
         whoami="Emre. Ich baue Software, die dir gehört.",
         ok="✓ kein Konto   ✓ kein Tracking   ✓ läuft lokal   ✓ open source",
-        dev=["Android TV", "Handy", "Linux / Windows", "LAN + P2P", "Spieleabend", "Training"],
+        dev=["Android TV", "Desktop", "Linux / Windows", "LAN + P2P", "Spieleabend", "Training"],
         footer=("KEIN KONTO · KEIN ABO · KEIN TRACKING · ", "NUR SOFTWARE"),
         cards=[
             ("IPTV-PLAYER · ANDROID TV · HANDY · PC",
              ["Alles, was läuft. Auf jedem Bildschirm.", "M3U, Xtream, Stalker. Ohne Werbung und Tracking."]),
-            ("KI-SPRACHTUTOR · ANDROID",
-             ["Sprachen lernen mit einer KI, die nur auf", "deinem Handy läuft. Kein Konto, kein Server."]),
+            ("BILDSCHIRMFREIGABE · P2P · FERNSTEUERUNG",
+             ["Bildschirm teilen und steuern, direkt P2P.", "Mit Live-Cursorn aller Zuschauer. Kein Server."]),
             ("DOWNLOAD-MANAGER · LINUX · WINDOWS",
              ["Bis zu 32 Verbindungen pro Datei.", "Setzt nach Abbruch fort. Eine Datei, 2 MB."]),
             ("DATEITRANSFER · LAN + P2P",
@@ -50,13 +50,13 @@ I18N = {
         path="~/projects", ls="ls ~/projects", cat="cat principles.txt", devices="DEVICES",
         whoami="Emre. I build software that belongs to you.",
         ok="✓ no account   ✓ no tracking   ✓ runs locally   ✓ open source",
-        dev=["Android TV", "Phone", "Linux / Windows", "LAN + P2P", "Game night", "Workout"],
+        dev=["Android TV", "Desktop", "Linux / Windows", "LAN + P2P", "Game night", "Workout"],
         footer=("NO ACCOUNT · NO SUBSCRIPTION · NO TRACKING · ", "JUST SOFTWARE"),
         cards=[
             ("IPTV PLAYER · ANDROID TV · PHONE · PC",
              ["Everything that's on. On every screen.", "M3U, Xtream, Stalker. No ads, no tracking."]),
-            ("AI LANGUAGE TUTOR · ANDROID",
-             ["Learn languages with an AI that runs only", "on your phone. No account, no server."]),
+            ("SCREEN SHARING · P2P · REMOTE CONTROL",
+             ["Share and control a screen, directly P2P.", "With live cursors for every viewer. No server."]),
             ("DOWNLOAD MANAGER · LINUX · WINDOWS",
              ["Up to 32 connections per file.", "Resumes after interruptions. One file, 2 MB."]),
             ("FILE TRANSFER · LAN + P2P",
@@ -70,13 +70,13 @@ I18N = {
         path="~/projeler", ls="ls ~/projeler", cat="cat ilkeler.txt", devices="CİHAZLAR",
         whoami="Emre. Sana ait yazılımlar geliştiriyorum.",
         ok="✓ hesap yok   ✓ takip yok   ✓ yerelde çalışır   ✓ açık kaynak",
-        dev=["Android TV", "Telefon", "Linux / Windows", "LAN + P2P", "Oyun gecesi", "Antrenman"],
+        dev=["Android TV", "Masaüstü", "Linux / Windows", "LAN + P2P", "Oyun gecesi", "Antrenman"],
         footer=("HESAP YOK · ABONELİK YOK · TAKİP YOK · ", "SADECE YAZILIM"),
         cards=[
             ("IPTV OYNATICI · ANDROID TV · TELEFON · PC",
              ["Yayında olan her şey. Her ekranda.", "M3U, Xtream, Stalker. Reklam yok, takip yok."]),
-            ("YAPAY ZEKÂ DİL ÖĞRETMENİ · ANDROID",
-             ["Sadece telefonunda çalışan bir yapay", "zekâyla dil öğren. Hesap yok, sunucu yok."]),
+            ("EKRAN PAYLAŞIMI · P2P · UZAKTAN KONTROL",
+             ["Ekranı doğrudan P2P paylaş ve kontrol et.", "Tüm izleyicilerin canlı imleçleri. Sunucu yok."]),
             ("İNDİRME YÖNETİCİSİ · LINUX · WINDOWS",
              ["Dosya başına 32 bağlantıya kadar.", "Kesintiden sonra devam eder. Tek dosya, 2 MB."]),
             ("DOSYA AKTARIMI · LAN + P2P",
@@ -90,7 +90,7 @@ I18N = {
 
 PROJECTS = [  # (slug, Titel, Technik)
     ("cinemamax", "CinemaMax", ["Flutter", "Dart"]),
-    ("kelimo", "Kelimo", ["Kotlin", "Compose", "LiteRT-LM"]),
+    ("screen-clean", "Screen-Clean", ["Rust", "P2P"]),
     ("speedload", "Speedload", ["Rust"]),
     ("giga-share", "Giga-Share", ["Rust", "Tauri", "React"]),
     ("werwolf-mobile", "Werwolf Mobile", ["JavaScript", "PWA", "Firebase"]),
@@ -100,7 +100,7 @@ PROJECTS = [  # (slug, Titel, Technik)
 # Linien-Icons (16×16) statt Emoji
 ICONS = [
     '<rect x="1" y="2.5" width="14" height="9.5" rx="1.5"/><path d="M5 14.5h6"/>',
-    '<rect x="4" y="1" width="8" height="14" rx="2"/><path d="M7 12.3h2"/>',
+    '<rect x="1" y="2" width="14" height="10" rx="1.5"/><path d="M6 8.5 9.5 6l-.7 3.4"/><path d="M5 14.5h6"/>',
     '<rect x="2.5" y="2.5" width="11" height="8" rx="1"/><path d="M1 13.5h14"/>',
     '<circle cx="3" cy="8" r="1.8"/><circle cx="13" cy="3" r="1.8"/><circle cx="13" cy="13" r="1.8"/><path d="M4.6 7.2 11.4 3.8M4.6 8.8l6.8 3.4"/>',
     '<circle cx="6" cy="5" r="2.4"/><path d="M1.5 14c0-2.6 2-4.2 4.5-4.2s4.5 1.6 4.5 4.2"/><circle cx="11.6" cy="5.6" r="1.9"/><path d="M11.4 9.9c1.9 0 3.3 1.3 3.3 3.6"/>',
@@ -116,7 +116,7 @@ def prompt(x, y):
 # ---------- Hero: Terminal, das "bootet" ----------
 def hero(L, c):
     lines = [("cmd", "whoami", 0.5), ("out", L["whoami"], 1.2), ("cmd", L["ls"], 1.8),
-             ("out", "cinemamax/  kelimo/  speedload/  giga-share/  werwolf/  gym-ranker/", 2.6),
+             ("out", "cinemamax/  screen-clean/  speedload/  giga-share/  werwolf/  gym-ranker/", 2.6),
              ("cmd", L["cat"], 3.2), ("good", L["ok"], 4.1)]
     rows, y = [], 112
     for kind, text, t in lines:
@@ -232,8 +232,7 @@ README = {
         claim="Software, die auf <b>deinem</b> Gerät läuft – nicht auf fremden Servern.",
         intro="Vom Fernseher übers Handy bis zum PC: Ich baue Apps ohne Konto, ohne Abo und ohne Tracking.<br>\nLokal, schnell, quelloffen. Und mit Liebe zum Detail im Design.",
         h_build="Was ich baue", h_more="Noch mehr aus der Werkstatt", th=("Projekt", "Was es macht"),
-        more=["P2P-Bildschirmfreigabe & Fernsteuerung in Rust, mit Live-Cursorn aller Zuschauer",
-              "Aus Playlists werden MP3s. Windows, Linux, Android",
+        more=["Aus Playlists werden MP3s. Windows, Linux, Android",
               "Macht dein Handy zur kabellosen HD-Webcam",
               "Portabler Windows-Debloater von Light bis Max",
               "All-in-One-Game-Launcher für Windows",
@@ -249,8 +248,7 @@ README = {
         claim="Software that runs on <b>your</b> device – not on someone else's servers.",
         intro="From the TV to the phone to the PC: I build apps without accounts, subscriptions or tracking.<br>\nLocal, fast, open source. And designed with care for the details.",
         h_build="What I build", h_more="More from the workshop", th=("Project", "What it does"),
-        more=["P2P screen sharing & remote control in Rust, with live cursors for every viewer",
-              "Turns playlists into MP3s. Windows, Linux, Android",
+        more=["Turns playlists into MP3s. Windows, Linux, Android",
               "Turns your phone into a wireless HD webcam",
               "Portable Windows debloater, from Light to Max",
               "All-in-one game launcher for Windows",
@@ -266,8 +264,7 @@ README = {
         claim="Yabancı sunucularda değil, <b>senin</b> cihazında çalışan yazılımlar.",
         intro="Televizyondan telefona, telefondan bilgisayara: Hesapsız, aboneliksiz ve takipsiz uygulamalar geliştiriyorum.<br>\nYerel, hızlı, açık kaynak. Ve tasarımda her ayrıntıya özen.",
         h_build="Neler geliştiriyorum", h_more="Atölyeden daha fazlası", th=("Proje", "Ne yapar"),
-        more=["Rust ile P2P ekran paylaşımı ve uzaktan kontrol, tüm izleyicilerin canlı imleçleriyle",
-              "Çalma listelerini MP3'e dönüştürür. Windows, Linux, Android",
+        more=["Çalma listelerini MP3'e dönüştürür. Windows, Linux, Android",
               "Telefonunu kablosuz bir HD web kamerasına dönüştürür",
               "Light'tan Max'e taşınabilir Windows debloater",
               "Windows için hepsi bir arada oyun başlatıcı",
@@ -279,9 +276,9 @@ README = {
              "+ Açık              MIT lisansı. Kodu oku, kendin derle.",
              "- Hesaplar, abonelikler, reklam, takip"]),
 }
-MORE = [("Screen-Clean", "Screen-Clean"), ("YT Music → MP3", "Ytms-to-mp3"), ("Phone-Cam", "Phone-Cam"),
+MORE = [("YT Music → MP3", "Ytms-to-mp3"), ("Phone-Cam", "Phone-Cam"),
         ("Debloatranium", "Debloatranium"), ("LaunchDeck", "LaunchDeck"), ("Financely", "Financely")]
-REPOS = {"cinemamax": "CinemaMax", "kelimo": "kelimo", "speedload": "speedload",
+REPOS = {"cinemamax": "CinemaMax", "screen-clean": "Screen-Clean", "speedload": "speedload",
          "giga-share": "Giga-Share", "werwolf-mobile": "Werwolf-Mobile", "gym-ranker": "Gym-Ranker"}
 NAMES = {"de": "Deutsch", "en": "English", "tr": "Türkçe"}
 

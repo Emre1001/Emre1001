@@ -16,7 +16,7 @@ Lokal, schnell, quelloffen. Und mit Liebe zum Detail im Design.
 
 <p align="center">
   <a href="https://github.com/Emre1001/CinemaMax"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/de/dark/cards/cinemamax.svg"><source media="(prefers-color-scheme: light)" srcset="assets/de/light/cards/cinemamax.svg"><img src="assets/de/dark/cards/cinemamax.svg" width="49%" alt="CinemaMax"></picture></a>
-  <a href="https://github.com/Emre1001/kelimo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/de/dark/cards/kelimo.svg"><source media="(prefers-color-scheme: light)" srcset="assets/de/light/cards/kelimo.svg"><img src="assets/de/dark/cards/kelimo.svg" width="49%" alt="Kelimo"></picture></a>
+  <a href="https://github.com/Emre1001/Screen-Clean"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/de/dark/cards/screen-clean.svg"><source media="(prefers-color-scheme: light)" srcset="assets/de/light/cards/screen-clean.svg"><img src="assets/de/dark/cards/screen-clean.svg" width="49%" alt="Screen-Clean"></picture></a>
   <a href="https://github.com/Emre1001/speedload"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/de/dark/cards/speedload.svg"><source media="(prefers-color-scheme: light)" srcset="assets/de/light/cards/speedload.svg"><img src="assets/de/dark/cards/speedload.svg" width="49%" alt="Speedload"></picture></a>
   <a href="https://github.com/Emre1001/Giga-Share"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/de/dark/cards/giga-share.svg"><source media="(prefers-color-scheme: light)" srcset="assets/de/light/cards/giga-share.svg"><img src="assets/de/dark/cards/giga-share.svg" width="49%" alt="Giga-Share"></picture></a>
   <a href="https://github.com/Emre1001/Werwolf-Mobile"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/de/dark/cards/werwolf-mobile.svg"><source media="(prefers-color-scheme: light)" srcset="assets/de/light/cards/werwolf-mobile.svg"><img src="assets/de/dark/cards/werwolf-mobile.svg" width="49%" alt="Werwolf Mobile"></picture></a>
@@ -29,7 +29,6 @@ Lokal, schnell, quelloffen. Und mit Liebe zum Detail im Design.
 
 | Projekt | Was es macht |
 |---|---|
-| [Screen-Clean](https://github.com/Emre1001/Screen-Clean) | P2P-Bildschirmfreigabe & Fernsteuerung in Rust, mit Live-Cursorn aller Zuschauer |
 | [YT Music → MP3](https://github.com/Emre1001/Ytms-to-mp3) | Aus Playlists werden MP3s. Windows, Linux, Android |
 | [Phone-Cam](https://github.com/Emre1001/Phone-Cam) | Macht dein Handy zur kabellosen HD-Webcam |
 | [Debloatranium](https://github.com/Emre1001/Debloatranium) | Portabler Windows-Debloater von Light bis Max |
